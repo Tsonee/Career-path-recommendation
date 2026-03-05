@@ -21,8 +21,9 @@ Sertifikati su nominalni kategorički atribut i predstavljaju različite sertifi
 Ovo je jedini (diskretni) numerički atribut u skupu podataka koji predstavlja prosek u procentima na nivoima obrazovanja. Ovaj atribut u ovom skupu podataka ima vrednosti u opsegu od 60 do 95 procenata. Ovaj atribut se može kombinovati sa atributom Education level kako bi još bolje objasnio uspeh osobe na različitim nivoima školovanja, što je svakako važno za predlaganje karijere.
 
 Ciljna promenljiva je Recommended Career. U datom skupu podataka ova promenljiva može imati vrednosti: Clerk(Prodavac), Marketing executive(Rukovodilac marketinga), ML engeenier(Inženjer mašinskog učenja), Research scientist(Naučnik istraživač), Software engeenier(Softverski inženjer), School counselor(Školski savetnik), Financial analyst(Finansijski analitičar), Sales asistent(Prodajni asistent), Junior accountant(Juniorski računovođa), Data entry operator(Operator za unos podataka), Professor, Business analyst(Poslovni analitičar). Dakle ciljna promenljiva je nominalna kategorička i ima 12 klasa.
-
+## Važni linkovi
 Link ka skupu podataka: https://www.kaggle.com/datasets/ahsanneural/career-path-recommendations-dataset/data
+Link ka modelima mašinskog učenja: https://drive.google.com/drive/folders/1b6HGUlu7wGwC08Lv7Sm74YGcWcY7tImq
 ## Literatura
 Skripta za mašinsko učenje: https://ml.matf.bg.ac.rs/readings/ml.pdf
 ## Članovi tima:
