@@ -1,5 +1,14 @@
 ## Opis projekta
 Ovaj projekat ima za cilj da obuči više modela mašinskog učenja za predlaganje odgovarajuće karijere.
+## Potrebni python moduli i njihove verzije
+joblib                            1.5.2
+keras                             3.13.2
+matplotlib                        3.10.6
+numpy                             2.3.5
+pandas                            2.3.3
+scikit-learn                      1.7.2
+tensorflow                        2.20.0
+xgboost                           3.2.0
 ### Modeli
 Modeli koji su obučavani u okviru projekta su:
 1. Multinomijalna logistička regresija
